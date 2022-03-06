@@ -1,8 +1,9 @@
 ### Hi, I´m Javier Epifanio 👋👨🏻‍💻
+<br>
 ![me](https://user-images.githubusercontent.com/55157644/156936485-20c8c6bf-4261-4ad4-9600-169e0e9502fa.png)
+<br>
 Soy Javier, un chico de 21 años apasionado por el mundo de la programación, las tecnologías y el arbitraje.<br>
 Ahora mismo me encuentro estudiando 2º de Desarrollo de Aplicaciones Web.<br>
-Llevo desde los 13 años en el mundo del arbitraje, actualmente soy árbitro asistente de 3ª RFEF.<br>
 Me apasiona trabajar en equipo, soy creativo, proactivo y tengo la capacidad de tomar decisiones rápidas y bajo presión.
 
 
