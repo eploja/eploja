@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I´m Javier Epifanio 👋
+Soy Javier, un chico de 21 años apasionado por el mundo de la programación, las tecnologías y el arbitraje.
+Ahora mismo me encuentro estudiando 2º de Desarrollo de Aplicaciones Web.
+Llevo desde los 13 años en el mundo del arbitraje, actualmente soy árbitro asistente de 3ª RFEF.
+Me apasiona trabajar en equipo, soy creativo, proactivo y tengo la capacidad de tomar decisiones rápidas y bajo presión.
 
-<!--
-**JaviEpi/JaviEpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ⚡ Estadísticas 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+## 📫 Proyectos
+
+## 💬 Contáctame
+
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javierepifaniolopez/)
+
+
+
