@@ -6,7 +6,7 @@
 ```js
 const JaviEpi = {
   pronouns: "he" | "him",
-  code: ["Java", "JavaScript", "PHP", "HTML5", "CSS", "MySQL"]
+  code: ["Java", "JavaScript", "PHP", "HTML5", "CSS", "MySQL", "React]
 }
 ```
 
