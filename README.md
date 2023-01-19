@@ -10,7 +10,7 @@ const JaviEpi = {
 }
 ```
 
-![JaviEpi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![JaviEpi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaviEpi&show_icons=true&theme=dark)
 
 
 ## You can find me 🌍:
